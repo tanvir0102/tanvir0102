@@ -11,7 +11,13 @@
   - How to architect a better data system
   - How to Secure and Optimize the Data solutions
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/tanvir0102/)
+- Here's My Portfolio Project that I have built over time in different domain
+  - 👨‍💻 System Engineering
+  - 👨‍💻 Cloud Engineering
+  - 👨‍💻 DevOps Engineering
+  - 👨‍💻 Data Engineering
 - My Certifications:
+  - [Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=220035828)
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/3d4ec42e-4f45-47b7-80cd-408d7e2664f8)
   - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/earner/earned/badge/a48c3482-d1c1-4e73-8784-8d87cab92aec)
   - [AWS Certified Developer – Associate](https://www.credly.com/earner/earned/badge/fa311e8d-9609-4905-a70f-3ef132c3ea26)
