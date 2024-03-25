@@ -29,6 +29,8 @@
   - [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/earner/earned/badge/cce17691-0319-4a83-a854-701e889ef147)
   - [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-in/users/mohammadtanvir-8491/credentials/7ea7542ced30fd2c)
 
+If you want to talk to me or want to discuess something then feel free to ping on [LinkedIn](https://www.linkedin.com/in/tanvir0102/).
+
 <!---
 tanvir0102/tanvir0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
