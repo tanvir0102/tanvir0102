@@ -13,8 +13,12 @@
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/tanvir0102/)
 - Here's My Portfolio Project that I have built over time in different domain
   - 👨‍💻 System Engineering
-  - 👨‍💻 Cloud Engineering
+  - 👨‍💻 Cloud Engineering 
   - 👨‍💻 DevOps Engineering
+    - [Setup AKS Cluster on Azure Cloud using Terraform](https://github.com/tanvir0102/devops-engineering-learn-build-share/tree/main/aks-iac-azure-using-terraform)
+    - [ArgoCD - CI/CD- Deploy a GuestBook Applicating on AKS using GitOps](https://github.com/tanvir0102/devops-engineering-learn-build-share/tree/main/argocd-aks-cicd-gitops-sample-app)
+    - [Simplifying Kubernetes Logging with EFK Stack](https://github.com/tanvir0102/devops-engineering-learn-build-share/tree/main/efk-logging-soln-for-k8s-aks)
+
   - 👨‍💻 Data Engineering
 - My Certifications:
   - [Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=220035828)
