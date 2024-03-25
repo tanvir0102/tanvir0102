@@ -20,6 +20,14 @@
     - [Simplifying Kubernetes Logging with EFK Stack](https://github.com/tanvir0102/devops-engineering-learn-build-share/tree/main/efk-logging-soln-for-k8s-aks)
 
   - 👨‍💻 Data Engineering
+    - [Sales Data Exploration using SQL](https://github.com/tanvir0102/data-engineering-learn-build-share/tree/main/sales-data-exploration-using-SQL)
+    - [IPhone Data Exploration using SQL](https://github.com/tanvir0102/data-engineering-learn-build-share/blob/main/iPhone-data-analysis-using-SQL/iPhone-data-analysis-using-SQL.md)
+    - [IPhone Data Analysis using Python Panda package](https://github.com/tanvir0102/data-engineering-learn-build-share/blob/main/iPhone-data-analysis-using-Python/iPhone_Data_Analysis_Mini_Project.ipynb)
+    - [Covid19 Prediction and Reporting on Azure Cloud](https://github.com/tanvir0102/data-engineering-learn-build-share/tree/main/covid19-prediction-reporting-on-azure)
+    - [Formula1 Cloud Data Platform using Azure Databricks](https://github.com/tanvir0102/data-engineering-learn-build-share/tree/main/formula1-cdp-on-azure)
+    - [NYC Taxi Cloud Data Platform using Azure Synapse Analytics](https://github.com/tanvir0102/data-engineering-learn-build-share/tree/main/nyc-taxi-cdp-on-azure)
+    - [Spotify End-to-End Data pipeline on AWS Cloud](https://github.com/tanvir0102/data-engineering-learn-build-share/tree/main/spotify-e2e-data-pipeline-on-aws-cloud)
+    - [Tokyo Olympic Data Analytics on Azure Cloud](https://github.com/tanvir0102/data-engineering-learn-build-share/tree/main/tokyo-olympic-data-analytics-on-azure-cloud)
 - My Certifications:
   - [Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=220035828)
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/3d4ec42e-4f45-47b7-80cd-408d7e2664f8)
