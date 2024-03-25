@@ -11,6 +11,17 @@
   - How to architect a better data system
   - How to Secure and Optimize the Data solutions
 - 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/tanvir0102/)
+- My Certifications:
+  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/earner/earned/badge/3d4ec42e-4f45-47b7-80cd-408d7e2664f8)
+  - AWS Certified SysOps Administrator – Associate
+  - AWS Certified Developer – Associate
+  - AWS Certified DevOps Engineer – Professional
+  - AWS Certified Solutions Architect – Professional
+  - CKAD: Certified Kubernetes Application Developer
+  - CKA: Certified Kubernetes Administrator
+  - Microsoft Certified: Azure Fundamentals
+  - Microsoft Certified: Azure Administrator Associate
+  - Microsoft Certified: Azure Data Engineer Associate
 
 <!---
 tanvir0102/tanvir0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
